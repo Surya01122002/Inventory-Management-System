@@ -75,6 +75,8 @@ To run the Inventory Management Web Application locally, follow these steps:
 
 **http://localhost:5005.**
 
+**https://wonderful-flower-0e43d630f.5.azurestaticapps.net**
+
 **Note: Ensure you have Python and Flask installed on your system before starting the application.**
 # Conclusion 🎯
 Congratulations! You have explored the amazing features of the **Inventory Management Web Application**. 🎉 This application offers a comprehensive solution for efficiently managing your product inventory across multiple warehouse locations. Whether you're running a shop or a large-scale warehouse, this user-friendly web application will streamline your inventory tracking processes and keep everything well-organized. 🏬📦🚛
